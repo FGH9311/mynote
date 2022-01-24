@@ -14,7 +14,7 @@ https://blog.csdn.net/oPengXiaoLiang/article/details/100678908
 
 上传出现问题
 
-![image-20220125013140897](C:\Users\FGH\AppData\Roaming\Typora\typora-user-images\image-20220125013140897.png)
+![image-20220125013140897](image/git  Typora  搭建与笔记问题/image-20220125013140897.png)
 
 
 
@@ -28,7 +28,7 @@ https://blog.csdn.net/oPengXiaoLiang/article/details/100678908
 
 往下翻，试了这条建议，成功了
 
-![img](https:////upload-images.jianshu.io/upload_images/2106579-11d6e10322dd7b70.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![image-20220125015133225](image/git  Typora  搭建与笔记问题/image-20220125015133225.png)
 
 
 
@@ -36,7 +36,7 @@ https://blog.csdn.net/oPengXiaoLiang/article/details/100678908
 
 按照上图的解决办法，在push时，可能会提示
 
-![img](https://upload-images.jianshu.io/upload_images/2106579-f125964059b9724e.png?imageMogr2/auto-orient/strip|imageView2/2/w/918/format/webp)
+![image-20220125015242087](image/git  Typora  搭建与笔记问题/image-20220125015242087.png)
 
 顾名思义，分支没对齐，设置一下就好了
 
@@ -44,7 +44,7 @@ https://blog.csdn.net/oPengXiaoLiang/article/details/100678908
 
 - ##  git push 443
 
-![image-20220125013406055](C:\Users\FGH\AppData\Roaming\Typora\typora-user-images\image-20220125013406055.png)
+![image-20220125013406055](image/git  Typora  搭建与笔记问题/image-20220125013406055.png)
 
 这种情况可能是因为设置了系统代理, 取消全局代理即可, 亲测有效
 
