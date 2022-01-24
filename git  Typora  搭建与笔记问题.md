@@ -6,6 +6,8 @@
 
 https://blog.csdn.net/oPengXiaoLiang/article/details/100678908
 
+有时候要翻墙才能打开github
+
 
 
 - ## Github的git操作必须要使用token认证[from 2021.8.13]
