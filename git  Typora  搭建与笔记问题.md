@@ -46,7 +46,9 @@ https://blog.csdn.net/oPengXiaoLiang/article/details/100678908
 
 ![image-20220125013406055](image/git  Typora  搭建与笔记问题/image-20220125013406055.png)
 
-这种情况可能是因为设置了系统代理, 取消全局代理即可, 亲测有效
+搭梯子最有效
+
+这种情况可能是因为设置了系统代理, 取消全局代理即可,可能有效
 
 ```
 git config --global --unset http.proxy
@@ -56,6 +58,8 @@ git config --global --unset https.proxy
 
 
 - ## OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+
+搭梯子最有效
 
 可能解决（莫明奇妙消失）
 
