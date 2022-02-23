@@ -28,9 +28,9 @@
 
    url 形式不同 
 
-   @RequestParam url : /test/getRegion/1
+   @PathVariable url : /test/getRegion/1
 
-   @PathVariable url ： /test/getRegion?id=1
+   @RequestParam url ： /test/getRegion?id=1
 
    
 
